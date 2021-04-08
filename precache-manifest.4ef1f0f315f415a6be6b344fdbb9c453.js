@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f547085b2ab2475af241e23e8a9278c5",
+    "revision": "cfe5073ec89a8ee7e56b2d987f9a6d22",
     "url": "/react_home/index.html"
   },
   {
-    "revision": "aa03b8f0e66a949a821c",
+    "revision": "c7a594cada1bdf470cbb",
     "url": "/react_home/static/css/2.33f29270.chunk.css"
   },
   {
-    "revision": "cfa58b96114e5f847bf0",
+    "revision": "12637c09a45d551e682b",
     "url": "/react_home/static/css/main.d498bfb3.chunk.css"
   },
   {
-    "revision": "aa03b8f0e66a949a821c",
-    "url": "/react_home/static/js/2.8f999f0f.chunk.js"
+    "revision": "c7a594cada1bdf470cbb",
+    "url": "/react_home/static/js/2.e350693b.chunk.js"
   },
   {
     "revision": "8778cd5090393a0e9d0b2ba23c97e47b",
-    "url": "/react_home/static/js/2.8f999f0f.chunk.js.LICENSE.txt"
+    "url": "/react_home/static/js/2.e350693b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cfa58b96114e5f847bf0",
-    "url": "/react_home/static/js/main.8f4bb869.chunk.js"
+    "revision": "12637c09a45d551e682b",
+    "url": "/react_home/static/js/main.dd1d26f6.chunk.js"
   },
   {
     "revision": "6f69fcb8bdcbc6a62078",
