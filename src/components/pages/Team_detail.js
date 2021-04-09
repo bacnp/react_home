@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Header from '../layout/Header';
 import { MDBProgress } from 'mdbreact';
+import {Link} from 'react-router-dom';
 
 export class Team_detail extends Component {
     render() {
@@ -18,7 +19,7 @@ export class Team_detail extends Component {
                             </div>{/* /.page-title-captions */}
                             <div className="breadcrumb-wrapper">
                             <span>
-                                <a title="Homepage" href="/"><i className="ti ti-home" />&nbsp;&nbsp;Home</a>
+                                <Link title="Homepage" to="/" ><i className="ti ti-home" />&nbsp;&nbsp;Home</Link>
                             </span>
                             <span className="ttm-bread-sep">&nbsp; : : &nbsp;</span>
                             <span>Our Expert</span>

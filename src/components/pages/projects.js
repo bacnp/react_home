@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
 import 'react-tabs/style/react-tabs.css';
 import Header from '../layout/Header';
+import {Link} from 'react-router-dom';
 
 export class Projects extends Component {
     render() {
@@ -19,7 +20,7 @@ export class Projects extends Component {
                             </div>{/* /.page-title-captions */}
                             <div className="breadcrumb-wrapper">
                             <span>
-                                <a title="Homepage" to={process.env.PUBLIC_URL + '/'}><i className="ti ti-home" />&nbsp;&nbsp;Home</a>
+                                <Link title="Homepage" to="/" ><i className="ti ti-home" />&nbsp;&nbsp;Home</Link>
                             </span>
                             <span className="ttm-bread-sep">&nbsp; : : &nbsp;</span>
                             <span>Projects</span>

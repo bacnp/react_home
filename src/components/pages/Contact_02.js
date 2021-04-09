@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 import Header from '../layout/Header';
+import {Link} from 'react-router-dom';
+
 
 const AnyReactComponent = ({ text }) => <div>{text}</div>;
 
@@ -20,7 +22,7 @@ export class Contact_02 extends Component {
                                     </div>{/* /.page-title-captions */}
                                     <div className="breadcrumb-wrapper">
                                         <span>
-                                            <a title="Homepage" href={process.env.PUBLIC_URL + '/Single_blog'}><i className="ti ti-home" />&nbsp;&nbsp;Home</a>
+                                            <Link title="Homepage" to="/" ><i className="ti ti-home" />&nbsp;&nbsp;Home</Link>
                                         </span>
                                         <span className="ttm-bread-sep">&nbsp; : : &nbsp;</span>
                                         <span>Contact Us</span>
