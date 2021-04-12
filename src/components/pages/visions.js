@@ -86,7 +86,7 @@ export class Visions extends Component {
                     </div>{/* section title end */}
 
                     <div className="col-md-8 offset-md-2 px-md-0 ">
-                    <h5>Pellentesque vehicula interdum diam at sagittis. Aliquam sed purus vestibulum, sollicitudin dolor vel, efficitur turpis. </h5>
+                    <h5>React Plus HOLDINGS aims to become a top high-tech company. We are also determined to create a cheerful working environment, contribute to social development, and build a prosperous society.</h5>
                     </div>
                     </div>
                     </div>
@@ -107,9 +107,9 @@ export class Visions extends Component {
                     <div className="box-shadow content-tab">
 
                             <div className="content-inner active ml-5 mt-2 mb-2">
-                                <p>1.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus porttitor luctus quam, ut placerat nisl sollicitudin at.</p>
-                                <p>2.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus porttitor luctus quam, ut placerat nisl sollicitudin at.</p>
-                                <p>3.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus porttitor luctus quam, ut placerat nisl sollicitudin at.</p>
+                                <p>1.To build a human-centered work environment and create opportunities for sustainable career development and satisfaction for all members.</p>
+                                <p>2.To deliver trust and satisfaction to our customers, fulfill our long-term commitments, and become a trusted partner.</p>
+                                <p>3.To join hands in building a prosperous society by applying advanced technology to improve production capacity and standards of living.</p>
                     </div>
                     </div>
                     </div>
@@ -138,10 +138,10 @@ export class Visions extends Component {
                             </div>
                             <div className="featured-content">{/*  featured-content */}
                             <div className="featured-title">{/*  featured-title */}
-                                <h5>Lorem ipsum</h5>
+                                <h5>Transparency</h5>
                             </div>
                             <div className="featured-desc">{/*  featured-desc */}
-                                <p>Lorem Ipsum is simply dummy text  ever since of the printing and typesetting industry.</p>
+                                <p>Transparency refers to complete, accurate and prompt information sharing from vision, strategy to achieved outcomes in a multidimensional manner.</p>
                             </div>
                             </div>
                         </div>{/*  featured-icon-box END */}
@@ -156,10 +156,10 @@ export class Visions extends Component {
                             </div>
                             <div className="featured-content">{/*  featured-content */}
                             <div className="featured-title">{/*  featured-title */}
-                                <h5>Lorem ipsum</h5>
+                                <h5>Creativity</h5>
                             </div>
                             <div className="featured-desc">{/*  featured-desc */}
-                                <p>Lorem Ipsum is simply dummy text  ever since of the printing and typesetting industry.</p>
+                                <p>Creativity is a constant eagerness to learn, develop oneself in order to create breakthrough value for individuals, customers and organizations.</p>
                             </div>
                             </div>
                         </div>{/*  featured-icon-box END */}
@@ -174,10 +174,10 @@ export class Visions extends Component {
                             </div>
                             <div className="featured-content">{/*  featured-content */}
                             <div className="featured-title">{/*  featured-title */}
-                                <h5>Lorem ipsum</h5>
+                                <h5>Trust</h5>
                             </div>
                             <div className="featured-desc">{/*  featured-desc */}
-                                <p>Lorem Ipsum is simply dummy text  ever since of the printing and typesetting industry.</p>
+                                <p>Trust refers to each individuals’ trust and support of each other to fulfill their own tasks and contribute to the overall mission of the organization.</p>
                             </div>
                             </div>
                         </div>{/*  featured-icon-box END */}
@@ -195,10 +195,10 @@ export class Visions extends Component {
                             </div>
                             <div className="featured-content">{/*  featured-content */}
                             <div className="featured-title">{/*  featured-title */}
-                                <h5>Lorem ipsum</h5>
+                                <h5>Kindness</h5>
                             </div>
                             <div className="featured-desc">{/*  featured-desc */}
-                                <p>Lorem Ipsum is simply dummy text  ever since of the printing and typesetting industry.</p>
+                                <p>Kindness means to respect freedom and uniqueness of each individual, to listen with care, speak with sincerity and act with integrity and to express gratitude.</p>
                             </div>
                             </div>
                         </div>{/*  featured-icon-box END */}
@@ -213,10 +213,10 @@ export class Visions extends Component {
                             </div>
                             <div className="featured-content">{/*  featured-content */}
                             <div className="featured-title">{/*  featured-title */}
-                                <h5>Lorem ipsum</h5>
+                                <h5>Solidarity</h5>
                             </div>
                             <div className="featured-desc">{/*  featured-desc */}
-                                <p>Lorem Ipsum is simply dummy text  ever since of the printing and typesetting industry.</p>
+                                <p>Solidarity means working jointly towards a common goal, pushing each other forward, sharing difficulties and celebrating achievements together.</p>
                             </div>
                             </div>
                         </div>{/*  featured-icon-box END */}
@@ -231,10 +231,10 @@ export class Visions extends Component {
                             </div>
                             <div className="featured-content">{/*  featured-content */}
                             <div className="featured-title">{/*  featured-title */}
-                                <h5>Lorem ipsum</h5>
+                                <h5>Commitment</h5>
                             </div>
                             <div className="featured-desc">{/*  featured-desc */}
-                                <p>Lorem Ipsum is simply dummy text  ever since of the printing and typesetting industry.</p>
+                                <p> As a company, we are committed to give our employees a fair policy and working environment and to committed to deliver trust and satisfaction to our customers.</p>
                             </div>
                             </div>
                         </div>{/*  featured-icon-box END */}

@@ -79,7 +79,7 @@ export class Web_Develop extends Component {
                   <div className="col-md-12">
 
                     <div className="col-md-8 offset-md-2 px-md-0 ">
-                    <h5>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque at lorem purus. Duis eros odio, aliquet eu turpis sed, vehicula pulvinar lacus. Donec sed faucibus ante, sit amet dignissim sapien</h5>
+                    <h5>Based on our abundant development experience, VNEXT HOLDINGS works on design and development from the viewpoint of "ease of use" in response to customer's requests and provides system development in order to help lead customer's business to success.</h5>
                     </div>
                     </div>
                     </div>
@@ -109,7 +109,7 @@ export class Web_Develop extends Component {
                         <div className="position-relative">
                             {/* ttm_single_image-wrapper */}
                             <div className="ttm_single_image-wrapper text-sm-center mr-35 res-991-m-0">
-                            <img className="img-fluid" src="./images/temp/13.jpg" title="single-img-nine" alt="single-img-nine" />
+                            <img className="img-fluid" src="./images/temp/Web_1.jpg" title="single-img-nine" alt="single-img-nine" />
                             </div>{/* ttm_single_image-wrapper end */}
                         </div>
                         </div>
@@ -118,11 +118,11 @@ export class Web_Develop extends Component {
                             {/* section title */}
                             <div className="section-title with-desc clearfix">
                             <div className="title-header">
-                                <h5>Lorem ipsum</h5>
-                                <h2 className="title">Lorem ipsum<br /> dolor sit amet <span>consectetur</span></h2>
+                                {/* <h5>Lorem ipsum</h5> */}
+                                <h2 className="title">Over 12 Years of Experience</h2>
                             </div>
                             <div className="title-desc">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque at lorem purus. Duis eros odio, aliquet eu turpis sed, vehicula pulvinar lacus.</p>
+                                <p>With over 12 years of experience, VNEXT HOLDINGS constantly strives for excellence in customer satisfaction by delivering high-quality software products that leverage cutting-edge technologies together with reliable and cost-effective solutions.</p>
                             </div>
                             </div>{/* section title end */}
                         </div>
@@ -146,11 +146,11 @@ export class Web_Develop extends Component {
                             {/* section title */}
                             <div className="section-title with-desc clearfix">
                             <div className="title-header">
-                                <h5>Lorem ipsum</h5>
-                                <h2 className="title">Lorem ipsum<br /> dolor sit amet <span>consectetur</span></h2>
+                                {/* <h5>Lorem ipsum</h5> */}
+                                <h2 className="title">360° Approach</h2>
                             </div>
                             <div className="title-desc">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque at lorem purus. Duis eros odio, aliquet eu turpis sed, vehicula pulvinar lacus.</p>
+                                <p>As a business partner, we provide a comprehensive service lineup, from project requirement definition to design, development, maintenance, operation, and infrastructure coordination. We offer an extensive support system: from storage support at the time of application to support for OS version upgrades.</p>
                             </div>
                             </div>{/* section title end */}
                         </div>
@@ -159,7 +159,7 @@ export class Web_Develop extends Component {
                         <div className="position-relative">
                             {/* ttm_single_image-wrapper */}
                             <div className="ttm_single_image-wrapper text-sm-center mr-35 res-991-m-0">
-                            <img className="img-fluid" src="./images/temp/14.jpg" title="single-img-nine" alt="single-img-nine" />
+                            <img className="img-fluid" src="./images/temp/Web_2.jpg" title="single-img-nine" alt="single-img-nine" />
                             </div>{/* ttm_single_image-wrapper end */}
                         </div>
                         </div>
@@ -176,7 +176,7 @@ export class Web_Develop extends Component {
                         <div className="position-relative">
                             {/* ttm_single_image-wrapper */}
                             <div className="ttm_single_image-wrapper text-sm-center mr-35 res-991-m-0">
-                            <img className="img-fluid" src="./images/temp/15.jpg" title="single-img-nine" alt="single-img-nine" />
+                            <img className="img-fluid" src="./images/temp/Web_1.jpg" title="single-img-nine" alt="single-img-nine" />
                             </div>{/* ttm_single_image-wrapper end */}
                         </div>
                         </div>
@@ -185,11 +185,11 @@ export class Web_Develop extends Component {
                             {/* section title */}
                             <div className="section-title with-desc clearfix">
                             <div className="title-header">
-                                <h5>Lorem ipsum</h5>
-                                <h2 className="title">Lorem ipsum<br /> dolor sit amet <span>consectetur</span></h2>
+                                {/* <h5>Lorem ipsum</h5> */}
+                                <h2 className="title">High Technical Level</h2>
                             </div>
                             <div className="title-desc">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque at lorem purus. Duis eros odio, aliquet eu turpis sed, vehicula pulvinar lacus.</p>
+                                <p>With a team of highly professional engineers with many technical qualifications, we are confident to provide support from consulting to product development with modern technologies, while still ensuring to fulfill the specific needs of each client.</p>
                             </div>
                             </div>{/* section title end */}
                         </div>

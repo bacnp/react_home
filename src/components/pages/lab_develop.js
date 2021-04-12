@@ -84,11 +84,12 @@ export class Lab_Develop extends Component {
                         <h2 className="title">What Is Lab Type Offshore Development?</h2>
                       </div>
                     </div>{/* section title end */}
+                    
 
+                    <img className="img-fluid" src="./images/temp/EN3.png" />
                     <div className="col-md-8 offset-md-2 px-md-0 ">
-                    <h5>Pellentesque vehicula interdum diam at sagittis. Aliquam sed purus vestibulum, sollicitudin dolor vel, efficitur turpis. </h5>
+                    <h5>For system and application development that requires a lot of cost, lab-type development is a development method that can flexibly respond to specifications while securing excellent human resources. In React Plus HOLDINGS' labo based development, development teams are created with both Japanese and Vietnamese members. No worries about offshore development or concerns about communication!</h5>
                     </div>
-                    <img className="img-fluid" src="https://via.placeholder.com/1600X480/444444.jpg" />
                     </div>
                     </div>
 
@@ -120,8 +121,8 @@ export class Lab_Develop extends Component {
                           </div>
                         </div>
                         <div className="featured-content">
-                          <div className="featured-title"><h5>Lorem ipsum</h5></div>
-                          <div className="ttm-box-description">Aute irure dolor reprehenderit velit esse cillum dolore fugiat</div>
+                          <div className="featured-title"><h5>Full Cycle</h5></div>
+                          <div className="ttm-box-description">Offering a full cycle of system/ application development with effective process</div>
                         </div>
                       </div>
                       <div className="ttm-processbox text-center">
@@ -132,8 +133,8 @@ export class Lab_Develop extends Component {
                           </div>
                         </div>
                         <div className="featured-content">
-                          <div className="featured-title"><h5>Lorem ipsum</h5></div>
-                          <div className="ttm-box-description">Aute irure dolor reprehenderit velit esse cillum dolore fugiat</div>
+                          <div className="featured-title"><h5>Increse Precision</h5></div>
+                          <div className="ttm-box-description">Quick, specific domain and technology expertise acquisition</div>
                         </div>
                       </div>
                       <div className="ttm-processbox text-center">
@@ -144,8 +145,8 @@ export class Lab_Develop extends Component {
                           </div>
                         </div>
                         <div className="featured-content">
-                          <div className="featured-title"><h5>Lorem ipsum</h5></div>
-                          <div className="ttm-box-description">Aute irure dolor reprehenderit velit esse cillum dolore fugiat</div>
+                          <div className="featured-title"><h5>Reduced Cost</h5></div>
+                          <div className="ttm-box-description">30% reduction in development costs</div>
                         </div>
                       </div>
                       <div className="ttm-processbox text-center res-991-mb-0">
@@ -156,8 +157,8 @@ export class Lab_Develop extends Component {
                           </div>
                         </div>
                         <div className="featured-content">
-                          <div className="featured-title"><h5>Lorem ipsum</h5></div>
-                          <div className="ttm-box-description">Aute irure dolor reprehenderit velit esse cillum dolore fugiat</div>
+                          <div className="featured-title"><h5>Elasticity</h5></div>
+                          <div className="ttm-box-description">Quickly scale up and down, with no need to get into a long, burdensome hiring process</div>
                         </div>
                       </div>
                     </div>
@@ -187,7 +188,7 @@ export class Lab_Develop extends Component {
                         <div className="position-relative">
                             {/* ttm_single_image-wrapper */}
                             <div className="ttm_single_image-wrapper text-sm-center mr-35 res-991-m-0">
-                            <img className="img-fluid" src="./images/temp/13.jpg" title="single-img-nine" alt="single-img-nine" />
+                            <img className="img-fluid" src="./images/temp/lab_1.jpg" title="single-img-nine" alt="single-img-nine" />
                             </div>{/* ttm_single_image-wrapper end */}
                         </div>
                         </div>
@@ -196,11 +197,11 @@ export class Lab_Develop extends Component {
                             {/* section title */}
                             <div className="section-title with-desc clearfix">
                             <div className="title-header">
-                                <h5>Lorem ipsum</h5>
-                                <h2 className="title">Lorem ipsum<br /> dolor sit amet <span>consectetur</span></h2>
+                                {/* <h5>Lorem ipsum</h5> */}
+                                <h2 className="title">React Plus HOLDINGS has been providing Lab-type Offshore Development for over 12 years.</h2>
                             </div>
                             <div className="title-desc">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque at lorem purus. Duis eros odio, aliquet eu turpis sed, vehicula pulvinar lacus.</p>
+                                <p>We have long-standing relationships with Japanese companies, as well as cooperative partnerships lasting as long as 10 years.</p>
                             </div>
                             </div>{/* section title end */}
                         </div>
@@ -220,11 +221,11 @@ export class Lab_Develop extends Component {
                             {/* section title */}
                             <div className="section-title with-desc clearfix">
                             <div className="title-header">
-                                <h5>Lorem ipsum</h5>
-                                <h2 className="title">Lorem ipsum<br /> dolor sit amet <span>consectetur</span></h2>
+                                {/* <h5>Lorem ipsum</h5> */}
+                                <h2 className="title">Flexible changes to number of personnel based on customers' need</h2>
                             </div>
                             <div className="title-desc">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque at lorem purus. Duis eros odio, aliquet eu turpis sed, vehicula pulvinar lacus.</p>
+                                <p>We can flexibly change the number of lab personnel according to changes in specifications. Labs consist of 3 people as per standards, but the team size can be adjusted as required.</p>
                             </div>
                             </div>{/* section title end */}
                         </div>
@@ -233,7 +234,7 @@ export class Lab_Develop extends Component {
                         <div className="position-relative">
                             {/* ttm_single_image-wrapper */}
                             <div className="ttm_single_image-wrapper text-sm-center mr-35 res-991-m-0">
-                            <img className="img-fluid" src="./images/temp/14.jpg" title="single-img-nine" alt="single-img-nine" />
+                            <img className="img-fluid" src="./images/temp/lab_2.jpg" title="single-img-nine" alt="single-img-nine" />
                             </div>{/* ttm_single_image-wrapper end */}
                         </div>
                         </div>
@@ -250,7 +251,7 @@ export class Lab_Develop extends Component {
                         <div className="position-relative">
                             {/* ttm_single_image-wrapper */}
                             <div className="ttm_single_image-wrapper text-sm-center mr-35 res-991-m-0">
-                            <img className="img-fluid" src="./images/temp/15.jpg" title="single-img-nine" alt="single-img-nine" />
+                            <img className="img-fluid" src="./images/temp/lab_3.jpg" title="single-img-nine" alt="single-img-nine" />
                             </div>{/* ttm_single_image-wrapper end */}
                         </div>
                         </div>
@@ -259,11 +260,11 @@ export class Lab_Develop extends Component {
                             {/* section title */}
                             <div className="section-title with-desc clearfix">
                             <div className="title-header">
-                                <h5>Lorem ipsum</h5>
-                                <h2 className="title">Lorem ipsum<br /> dolor sit amet <span>consectetur</span></h2>
+                                {/* <h5>Lorem ipsum</h5> */}
+                                <h2 className="title">Vietnamese Developers x Japanese Quality Control</h2>
                             </div>
                             <div className="title-desc">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque at lorem purus. Duis eros odio, aliquet eu turpis sed, vehicula pulvinar lacus.</p>
+                                <p>The Japanese QA team takes responsibility for ensuring the system developed by Vietnamese engineers meetthe same quality as Japanese companies' standard through test planning, test execution, quality assurance and issue tracking.</p>
                             </div>
                             </div>{/* section title end */}
                         </div>

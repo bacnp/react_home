@@ -82,23 +82,69 @@ export class Greetings extends Component {
                     <div className="section-title text-center with-desc clearfix">
                       <div className="title-header">
 
-                        <h2 className="title">Greetings</h2>
+                        <h2 className="title">“ WE CARE. WE COMMIT. WE ARE YOUR TRUE PARTNER. ”</h2>
                       </div>
                     </div>{/* section title end */}
                   </div>
-                  <div className="row ml-2 mr-2">
-                  <div className="title-desc">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce volutpat est nec nisi ultricies, a congue lorem luctus. Nam quis nibh magna. Quisque iaculis nisi in facilisis condimentum. Cras vitae porta ligula, et ultrices ipsum. Duis ut neque a quam hendrerit cursus id a ipsum. Vestibulum ornare elit tellus, id mollis est efficitur dignissim. In at sollicitudin metus, a fringilla eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus turpis elit, fermentum ac viverra at, sagittis vulputate augue. Cras maximus ultricies ipsum, eu eleifend mauris. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi elementum ut nisi sed venenatis. In vel libero convallis enim blandit viverra sit amet quis nisi. Cras venenatis quam vitae leo dignissim, non elementum enim pulvinar. Proin mollis dui blandit, maximus ex non, ornare sem. Fusce id blandit odio.</p>
-                            <p>Pellentesque vehicula interdum diam at sagittis. Aliquam sed purus vestibulum, sollicitudin dolor vel, efficitur turpis. Ut lacinia lacus ut nunc tristique porttitor. Integer dui eros, sodales vel magna non, molestie mattis metus. Integer sollicitudin ex magna, eget tristique lectus lacinia pellentesque. Cras ac justo ut libero blandit scelerisque. Curabitur accumsan tortor ut risus commodo, sit amet cursus neque dictum.</p>
-                            <p>Pellentesque vehicula interdum diam at sagittis. Aliquam sed purus vestibulum, sollicitudin dolor vel, efficitur turpis. Ut lacinia lacus ut nunc tristique porttitor. Integer dui eros, sodales vel magna non, molestie mattis metus. Integer sollicitudin ex magna, eget tristique lectus lacinia pellentesque. Cras ac justo ut libero blandit scelerisque. Curabitur accumsan tortor ut risus commodo, sit amet cursus neque dictum.</p>
-                </div>
+                  <div className="row">{/* row */}
+                        <div className="col-lg-6">
+                        <div className="position-relative">
+                            {/* ttm_single_image-wrapper */}
+                            <div className="ttm_single_image-wrapper text-sm-center mr-35 res-991-m-0">
+                            <img className="img-fluid" src="./images/temp/greetings_1.png" title="single-img-nine" alt="single-img-nine" />
+                            </div>{/* ttm_single_image-wrapper end */}
+                        </div>
+                        </div>
+                        <div className="col-lg-6">
+                        <div className="res-991-mt-30">
+                            {/* section title */}
+                            <div className="section-title with-desc clearfix">
 
+                            <div className="title-desc">
+                                <p>React Plus HOLDINGS is committed to uphold this Mission Statement.</p>
 
- 
-                </div>
+                                <p>This statement also expresses my strong aspirations over the past 10 years since the company was founded. Thanks to the support of our customers, we have been able to overcome all challenges by working together as one.</p>
+
+                                <p>At React Plus HOLDINGS, we always work together in solidarity to put our clients' best interests first to meet all their requirements. I strongly believe that by doing our utmost best, we have become a trusted partner and the number one choice of clients.</p>
+                            </div>
+                            </div>{/* section title end */}
+                        </div>
+                        </div>
+
+                        </div>
                     </div>
                 </section>
                 {/* Companysection end*/}
+                                <section className="ttm-row.zero-padding-section clearfix">
+ 
+                                {/* aboutus-section */}
+
+                    <div className="container-xl">
+                    <div className="row">{/* row */}
+
+                        <div className="col-lg-6">
+                        <div className="res-991-mt-30">
+                            {/* section title */}
+                            <div className="section-title with-desc clearfix">
+
+                            <div className="title-desc">
+                                <p>Starting with offshore development for Japanese clients, VNEXT HOLDINGS has conquered this fastidious market with quality products comparable to those of local companies. Along with providing our core services, we are now expanding to modern technology areas such as Artificial Intelligence and Blockchain development, to meet the higher requirements of our clients. Our understanding of the needs and culture of the Japanese market in particular and Asia in general is a solid stepping stone for making a greater impression in other countries.</p>
+                                <p>As a representative of Vietnamese IT companies, I believe that cooperation in the Information Technology sector is just the first step of Vietnam's collaboration with the world. It is my hope that the effort and commitment of the VNEXT HOLDINGS as a whole will contribute to the connection and development of Vietnamese society and international cooperation.</p>
+                            </div>
+                            </div>{/* section title end */}
+                        </div>
+                        </div>
+                        <div className="col-lg-6">
+                        <div className="position-relative">
+                            {/* ttm_single_image-wrapper */}
+                            <div className="ttm_single_image-wrapper text-sm-center mr-35 res-991-m-0">
+                            <img className="img-fluid" src="./images/temp/greetings_2.png" title="single-img-nine" alt="single-img-nine" />
+                            </div>{/* ttm_single_image-wrapper end */}
+                        </div>
+                        </div>
+                        </div>
+                    </div>
+                    </section>
                 {/* CEO */}
 
               <div className="container-xl">
