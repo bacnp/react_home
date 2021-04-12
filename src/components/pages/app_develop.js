@@ -109,7 +109,7 @@ export class App_Develop extends Component {
                         <div className="position-relative">
                             {/* ttm_single_image-wrapper */}
                             <div className="ttm_single_image-wrapper text-sm-center mr-35 res-991-m-0">
-                            <img className="img-fluid" src="./images/temp/app_1.jpg" title="single-img-nine" alt="single-img-nine" />
+                            <img className="img-fluid" src="./images/temp/App_1.jpg" title="single-img-nine" alt="single-img-nine" />
                             </div>{/* ttm_single_image-wrapper end */}
                         </div>
                         </div>
@@ -159,7 +159,7 @@ export class App_Develop extends Component {
                         <div className="position-relative">
                             {/* ttm_single_image-wrapper */}
                             <div className="ttm_single_image-wrapper text-sm-center mr-35 res-991-m-0">
-                            <img className="img-fluid" src="./images/temp/app_2.jpg" title="single-img-nine" alt="single-img-nine" />
+                            <img className="img-fluid" src="./images/temp/App_2.jpg" title="single-img-nine" alt="single-img-nine" />
                             </div>{/* ttm_single_image-wrapper end */}
                         </div>
                         </div>
@@ -176,7 +176,7 @@ export class App_Develop extends Component {
                         <div className="position-relative">
                             {/* ttm_single_image-wrapper */}
                             <div className="ttm_single_image-wrapper text-sm-center mr-35 res-991-m-0">
-                            <img className="img-fluid" src="./images/temp/app_3.jpg" title="single-img-nine" alt="single-img-nine" />
+                            <img className="img-fluid" src="./images/temp/App_3.jpg" title="single-img-nine" alt="single-img-nine" />
                             </div>{/* ttm_single_image-wrapper end */}
                         </div>
                         </div>
