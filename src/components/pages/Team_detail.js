@@ -98,32 +98,32 @@ export class Team_detail extends Component {
                         <div className="col-md-6">
                             {/* progress-bar */}
                             <div className="ttm-progress-bar">
-                                <div className="progress-bar-title float-left">UI/UX Design</div>{/* progress-bar-title */}
-                                <label className="float-right">77%</label>
-                                <MDBProgress className="w-100 ttm-bgcolor-darkgrey" material value={77}></MDBProgress>
+                                <div className="progress-bar-title float-left">Front End Development</div>{/* progress-bar-title */}
+                                <label className="float-right">87%</label>
+                                <MDBProgress className="w-100 ttm-bgcolor-darkgrey" material value={87}></MDBProgress>
                             </div>
                             {/* progress-bar END */}
                             {/* progress-bar */}
                             <div className="ttm-progress-bar">
                                 <div className="progress-bar-title float-left">App Development</div>{/* progress-bar-title */}
-                                <label className="float-right">85%</label>
-                                <MDBProgress className="w-100 ttm-bgcolor-darkgrey" material value={85}></MDBProgress>
+                                <label className="float-right">82%</label>
+                                <MDBProgress className="w-100 ttm-bgcolor-darkgrey" material value={82}></MDBProgress>
                             </div>
                             {/* progress-bar END */}
                         </div>
                         <div className="col-md-6 res-767-mt-30">
                             {/* progress-bar */}
                             <div className="ttm-progress-bar">
-                                <div className="progress-bar-title float-left">Database Design</div>{/* progress-bar-title */}
-                                <label className="float-right">77%</label>
-                                <MDBProgress className="w-100 ttm-bgcolor-darkgrey" material value={77}></MDBProgress>
+                                <div className="progress-bar-title float-left">Back End Development</div>{/* progress-bar-title */}
+                                <label className="float-right">83%</label>
+                                <MDBProgress className="w-100 ttm-bgcolor-darkgrey" material value={83}></MDBProgress>
                             </div>
                             {/* progress-bar END */}
                             {/* progress-bar */}
                             <div className="ttm-progress-bar">
                                 <div className="progress-bar-title float-left">Project Management</div>{/* progress-bar-title */}
-                                <label className="float-right">80%</label>
-                                <MDBProgress className="w-100 ttm-bgcolor-darkgrey" material value={80}></MDBProgress>
+                                <label className="float-right">78%</label>
+                                <MDBProgress className="w-100 ttm-bgcolor-darkgrey" material value={78}></MDBProgress>
                             </div>
                             {/* progress-bar END */}
                         </div>
@@ -292,25 +292,25 @@ export class Team_detail extends Component {
                         <div className="col-md-6">
                             {/* progress-bar */}
                             <div className="ttm-progress-bar">
-                                <div className="progress-bar-title float-left">UI/UX Design</div>{/* progress-bar-title */}
-                                <label className="float-right">77%</label>
-                                <MDBProgress className="w-100 ttm-bgcolor-darkgrey" material value={77}></MDBProgress>
+                                <div className="progress-bar-title float-left">Front End Development</div>{/* progress-bar-title */}
+                                <label className="float-right">82%</label>
+                                <MDBProgress className="w-100 ttm-bgcolor-darkgrey" material value={82}></MDBProgress>
                             </div>
                             {/* progress-bar END */}
                             {/* progress-bar */}
                             <div className="ttm-progress-bar">
                                 <div className="progress-bar-title float-left">App Development</div>{/* progress-bar-title */}
-                                <label className="float-right">85%</label>
-                                <MDBProgress className="w-100 ttm-bgcolor-darkgrey" material value={85}></MDBProgress>
+                                <label className="float-right">81%</label>
+                                <MDBProgress className="w-100 ttm-bgcolor-darkgrey" material value={81}></MDBProgress>
                             </div>
                             {/* progress-bar END */}
                         </div>
                         <div className="col-md-6 res-767-mt-30">
                             {/* progress-bar */}
                             <div className="ttm-progress-bar">
-                                <div className="progress-bar-title float-left">Database Design</div>{/* progress-bar-title */}
-                                <label className="float-right">77%</label>
-                                <MDBProgress className="w-100 ttm-bgcolor-darkgrey" material value={77}></MDBProgress>
+                                <div className="progress-bar-title float-left">Back End Development</div>{/* progress-bar-title */}
+                                <label className="float-right">89%</label>
+                                <MDBProgress className="w-100 ttm-bgcolor-darkgrey" material value={89}></MDBProgress>
                             </div>
                             {/* progress-bar END */}
                             {/* progress-bar */}
@@ -390,9 +390,9 @@ export class Team_detail extends Component {
                         <div className="col-md-6">
                             {/* progress-bar */}
                             <div className="ttm-progress-bar">
-                                <div className="progress-bar-title float-left">UI/UX Design</div>{/* progress-bar-title */}
-                                <label className="float-right">77%</label>
-                                <MDBProgress className="w-100 ttm-bgcolor-darkgrey" material value={77}></MDBProgress>
+                                <div className="progress-bar-title float-left">Front End Development</div>{/* progress-bar-title */}
+                                <label className="float-right">85%</label>
+                                <MDBProgress className="w-100 ttm-bgcolor-darkgrey" material value={85}></MDBProgress>
                             </div>
                             {/* progress-bar END */}
                             {/* progress-bar */}
@@ -406,16 +406,16 @@ export class Team_detail extends Component {
                         <div className="col-md-6 res-767-mt-30">
                             {/* progress-bar */}
                             <div className="ttm-progress-bar">
-                                <div className="progress-bar-title float-left">Database Design</div>{/* progress-bar-title */}
-                                <label className="float-right">77%</label>
-                                <MDBProgress className="w-100 ttm-bgcolor-darkgrey" material value={77}></MDBProgress>
+                                <div className="progress-bar-title float-left">Back End Development</div>{/* progress-bar-title */}
+                                <label className="float-right">78%</label>
+                                <MDBProgress className="w-100 ttm-bgcolor-darkgrey" material value={78}></MDBProgress>
                             </div>
                             {/* progress-bar END */}
                             {/* progress-bar */}
                             <div className="ttm-progress-bar">
                                 <div className="progress-bar-title float-left">Project Management</div>{/* progress-bar-title */}
-                                <label className="float-right">80%</label>
-                                <MDBProgress className="w-100 ttm-bgcolor-darkgrey" material value={80}></MDBProgress>
+                                <label className="float-right">82%</label>
+                                <MDBProgress className="w-100 ttm-bgcolor-darkgrey" material value={82}></MDBProgress>
                             </div>
                             {/* progress-bar END */}
                         </div>
@@ -437,7 +437,7 @@ export class Team_detail extends Component {
                             <div className="ttm-team-member-single-list">
                             <h2 className="ttm-team-member-single-title">Mai Thi Hong Tham</h2>
                             <span className="ttm-team-member-single-position">BrSE Leader</span>
-                            <p>Meet our BrSE team leader Mai Thi Hong Tham. With 8+ years of experience working as a BrSE under her belt, she is able to understand precisely what the client want and convey them to our developer team. When working with us, she will be the first and the last person you talk with to get your desired development result.</p>
+                            <p>Meet our BrSE team leader Mai Thi Hong Tham. With 7+ years of experience working as a BrSE under her belt, she is able to understand precisely what the client want and convey them to our developer team. When working with us, she will be the first and the last person you talk with to get your desired development result.</p>
                             <p>Other than the day-to-day communication and report, to ensure the progress of development, she is also in charge of other processes like requirements analysis, project management and testing. </p>
                             {/* separator */}
                             <div className="separator">
@@ -461,7 +461,7 @@ export class Team_detail extends Component {
                                     </li>
                                     <li>
                                     <div className="ttm-team-list-title"><i className="ti ti-time" /> Experience :</div>
-                                    <div className="ttm-team-list-value">8 Years</div>
+                                    <div className="ttm-team-list-value">7 Years</div>
                                     </li>
                                     <li>
                                     <div className="ttm-team-list-title"><i className="ti ti-calendar" /> Since :</div>
@@ -488,32 +488,32 @@ export class Team_detail extends Component {
                         <div className="col-md-6">
                             {/* progress-bar */}
                             <div className="ttm-progress-bar">
-                                <div className="progress-bar-title float-left">UI/UX Design</div>{/* progress-bar-title */}
-                                <label className="float-right">77%</label>
-                                <MDBProgress className="w-100 ttm-bgcolor-darkgrey" material value={77}></MDBProgress>
+                                <div className="progress-bar-title float-left">Japanese</div>{/* progress-bar-title */}
+                                <label className="float-right">88%</label>
+                                <MDBProgress className="w-100 ttm-bgcolor-darkgrey" material value={88}></MDBProgress>
                             </div>
                             {/* progress-bar END */}
                             {/* progress-bar */}
                             <div className="ttm-progress-bar">
-                                <div className="progress-bar-title float-left">App Development</div>{/* progress-bar-title */}
-                                <label className="float-right">85%</label>
-                                <MDBProgress className="w-100 ttm-bgcolor-darkgrey" material value={85}></MDBProgress>
+                                <div className="progress-bar-title float-left">Testing</div>{/* progress-bar-title */}
+                                <label className="float-right">77%</label>
+                                <MDBProgress className="w-100 ttm-bgcolor-darkgrey" material value={77}></MDBProgress>
                             </div>
                             {/* progress-bar END */}
                         </div>
                         <div className="col-md-6 res-767-mt-30">
                             {/* progress-bar */}
                             <div className="ttm-progress-bar">
-                                <div className="progress-bar-title float-left">Database Design</div>{/* progress-bar-title */}
-                                <label className="float-right">77%</label>
-                                <MDBProgress className="w-100 ttm-bgcolor-darkgrey" material value={77}></MDBProgress>
+                                <div className="progress-bar-title float-left">Requirements Analysis</div>{/* progress-bar-title */}
+                                <label className="float-right">80%</label>
+                                <MDBProgress className="w-100 ttm-bgcolor-darkgrey" material value={80}></MDBProgress>
                             </div>
                             {/* progress-bar END */}
                             {/* progress-bar */}
                             <div className="ttm-progress-bar">
                                 <div className="progress-bar-title float-left">Project Management</div>{/* progress-bar-title */}
-                                <label className="float-right">80%</label>
-                                <MDBProgress className="w-100 ttm-bgcolor-darkgrey" material value={80}></MDBProgress>
+                                <label className="float-right">85%</label>
+                                <MDBProgress className="w-100 ttm-bgcolor-darkgrey" material value={85}></MDBProgress>
                             </div>
                             {/* progress-bar END */}
                         </div>
@@ -586,32 +586,32 @@ export class Team_detail extends Component {
                         <div className="col-md-6">
                             {/* progress-bar */}
                             <div className="ttm-progress-bar">
-                                <div className="progress-bar-title float-left">UI/UX Design</div>{/* progress-bar-title */}
-                                <label className="float-right">77%</label>
-                                <MDBProgress className="w-100 ttm-bgcolor-darkgrey" material value={77}></MDBProgress>
+                                <div className="progress-bar-title float-left">Front End Development</div>{/* progress-bar-title */}
+                                <label className="float-right">84%</label>
+                                <MDBProgress className="w-100 ttm-bgcolor-darkgrey" material value={84}></MDBProgress>
                             </div>
                             {/* progress-bar END */}
                             {/* progress-bar */}
                             <div className="ttm-progress-bar">
                                 <div className="progress-bar-title float-left">App Development</div>{/* progress-bar-title */}
-                                <label className="float-right">85%</label>
-                                <MDBProgress className="w-100 ttm-bgcolor-darkgrey" material value={85}></MDBProgress>
+                                <label className="float-right">83%</label>
+                                <MDBProgress className="w-100 ttm-bgcolor-darkgrey" material value={83}></MDBProgress>
                             </div>
                             {/* progress-bar END */}
                         </div>
                         <div className="col-md-6 res-767-mt-30">
                             {/* progress-bar */}
                             <div className="ttm-progress-bar">
-                                <div className="progress-bar-title float-left">Database Design</div>{/* progress-bar-title */}
-                                <label className="float-right">77%</label>
-                                <MDBProgress className="w-100 ttm-bgcolor-darkgrey" material value={77}></MDBProgress>
+                                <div className="progress-bar-title float-left">Back End Development</div>{/* progress-bar-title */}
+                                <label className="float-right">85%</label>
+                                <MDBProgress className="w-100 ttm-bgcolor-darkgrey" material value={85}></MDBProgress>
                             </div>
                             {/* progress-bar END */}
                             {/* progress-bar */}
                             <div className="ttm-progress-bar">
                                 <div className="progress-bar-title float-left">Project Management</div>{/* progress-bar-title */}
-                                <label className="float-right">80%</label>
-                                <MDBProgress className="w-100 ttm-bgcolor-darkgrey" material value={80}></MDBProgress>
+                                <label className="float-right">81%</label>
+                                <MDBProgress className="w-100 ttm-bgcolor-darkgrey" material value={81}></MDBProgress>
                             </div>
                             {/* progress-bar END */}
                         </div>
@@ -684,25 +684,25 @@ export class Team_detail extends Component {
                         <div className="col-md-6">
                             {/* progress-bar */}
                             <div className="ttm-progress-bar">
-                                <div className="progress-bar-title float-left">UI/UX Design</div>{/* progress-bar-title */}
-                                <label className="float-right">77%</label>
-                                <MDBProgress className="w-100 ttm-bgcolor-darkgrey" material value={77}></MDBProgress>
+                                <div className="progress-bar-title float-left">Front End Development</div>{/* progress-bar-title */}
+                                <label className="float-right">83%</label>
+                                <MDBProgress className="w-100 ttm-bgcolor-darkgrey" material value={83}></MDBProgress>
                             </div>
                             {/* progress-bar END */}
                             {/* progress-bar */}
                             <div className="ttm-progress-bar">
                                 <div className="progress-bar-title float-left">App Development</div>{/* progress-bar-title */}
-                                <label className="float-right">85%</label>
-                                <MDBProgress className="w-100 ttm-bgcolor-darkgrey" material value={85}></MDBProgress>
+                                <label className="float-right">86%</label>
+                                <MDBProgress className="w-100 ttm-bgcolor-darkgrey" material value={86}></MDBProgress>
                             </div>
                             {/* progress-bar END */}
                         </div>
                         <div className="col-md-6 res-767-mt-30">
                             {/* progress-bar */}
                             <div className="ttm-progress-bar">
-                                <div className="progress-bar-title float-left">Database Design</div>{/* progress-bar-title */}
-                                <label className="float-right">77%</label>
-                                <MDBProgress className="w-100 ttm-bgcolor-darkgrey" material value={77}></MDBProgress>
+                                <div className="progress-bar-title float-left">Back End Development</div>{/* progress-bar-title */}
+                                <label className="float-right">85%</label>
+                                <MDBProgress className="w-100 ttm-bgcolor-darkgrey" material value={85}></MDBProgress>
                             </div>
                             {/* progress-bar END */}
                             {/* progress-bar */}
