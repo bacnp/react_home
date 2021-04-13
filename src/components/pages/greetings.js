@@ -147,7 +147,7 @@ export class Greetings extends Component {
                     </section>
                 {/* CEO */}
 
-              <div className="container-xl">
+              <div className="container-xl mb-5">
               <div className="section-title text-center with-desc clearfix">
                       <div className="title-header">
                         <h2 className="title">CEO Profile</h2>
@@ -157,7 +157,7 @@ export class Greetings extends Component {
                   <div className="col-lg-6 res-991-text-center res-991-mb-40">
                     {/* ttm_single_image-wrapper */}
                     <div className="ttm_single_image-wrapper">
-                      <img className="img-fluid" src="https://via.placeholder.com/568X675/444444.png" title="single-img-two" alt="single-img-two" />
+                      <img className="img-fluid" src="./images/temp/CEO.png" title="single-img-two" alt="CEO" />
                     </div>{/* ttm_single_image-wrapper end */}
                   </div>
                   <div className="col-lg-6">
@@ -185,7 +185,7 @@ export class Greetings extends Component {
                       <div className="row align-items-center">
                         <div className="col-md-3 col-lg-4 col-5">
                           <div className="text-left pt-15">
-                            <img className="img-fluid" src="https://via.placeholder.com/145X60/444444.png" alt="about-sign" />
+                            <img className="img-fluid" src="./images/temp/CEO-signature.png" alt="CEO-signature" />
                           </div>
                         </div>
                         <div className="col-md-9 col-lg-8 col-7">
