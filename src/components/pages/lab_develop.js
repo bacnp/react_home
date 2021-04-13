@@ -264,7 +264,7 @@ export class Lab_Develop extends Component {
                                 <h2 className="title">Vietnamese Developers x Japanese Quality Control</h2>
                             </div>
                             <div className="title-desc">
-                                <p>The Japanese QA team takes responsibility for ensuring the system developed by Vietnamese engineers meetthe same quality as Japanese companies' standard through test planning, test execution, quality assurance and issue tracking.</p>
+                                <p>The Japanese QA team takes responsibility for ensuring the system developed by Vietnamese engineers meet the same quality as Japanese companies' standard through test planning, test execution, quality assurance and issue tracking.</p>
                             </div>
                             </div>{/* section title end */}
                         </div>
