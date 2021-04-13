@@ -28,13 +28,13 @@ export class Header extends Component {
                                 </ul>
                             <div className="ttm-social-links-wrapper list-inline">
                                 <ul className="social-icons">
-                                    <li><a href="https://www.facebook.com/reactplus.jsc" className=" tooltip-bottom" data-tooltip="Facebook"><i className="fab fa-facebook-f" /></ a>
+                                    <li><a href="https://www.facebook.com/reactplus.jsc" target="_blank" rel="noopener noreferrer" className=" tooltip-bottom" data-tooltip="Facebook"><i className="fab fa-facebook-f" /></ a>
                                     </li>
-                                    <li><a href="https://www.facebook.com/reactplus.jsc" className=" tooltip-bottom" data-tooltip="Twitter"><i className="fab fa-twitter" /></ a>
+                                    <li><a href="https://www.facebook.com/reactplus.jsc" target="_blank" rel="noopener noreferrer" className=" tooltip-bottom" data-tooltip="Twitter"><i className="fab fa-twitter" /></ a>
                                     </li>
-                                    <li><a href="https://www.facebook.com/reactplus.jsc" className=" tooltip-bottom" data-tooltip="Flickr"><i className="fab fa-flickr" /></ a>
+                                    <li><a href="https://www.facebook.com/reactplus.jsc" target="_blank" rel="noopener noreferrer" className=" tooltip-bottom" data-tooltip="Flickr"><i className="fab fa-flickr" /></ a>
                                     </li>
-                                    <li><a href="https://www.facebook.com/reactplus.jsc" className=" tooltip-bottom" data-tooltip=" aedin"><i className="fab fa-linkedin-in" /></ a>
+                                    <li><a href="https://www.facebook.com/reactplus.jsc" target="_blank" rel="noopener noreferrer" className=" tooltip-bottom" data-tooltip=" aedin"><i className="fab fa-linkedin-in" /></ a>
                                     </li>
                                 </ul>
                             </div>
