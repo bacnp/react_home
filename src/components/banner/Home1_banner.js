@@ -1,5 +1,7 @@
 import React, { Component } from "react";
-import { MDBAnimation, MDBCarousel, MDBCarouselCaption, MDBCarouselInner, MDBCarouselItem, MDBView, MDBMask, MDBContainer, MDBRow } from
+import { MDBAnimation, MDBCarousel, MDBCarouselCaption, MDBCarouselInner, MDBCarouselItem, MDBView, 
+    // MDBMask, 
+    MDBContainer, MDBRow } from
 "mdbreact";
 
 export class CarouselPage extends Component {

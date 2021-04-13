@@ -18,7 +18,7 @@ export class Header extends Component {
                         <div className="col-lg-5">
                             <ul className="top-contact text-left">
                                 <li><i className="fas fa-map-marker-alt" />&nbsp;&nbsp;24 Nguyen Co Thach</li>
-                                <li><i className="far fa-envelope" />&nbsp;&nbsp;< a to="mailto:info@example.com.com">BDO@REACT-PLUS.COM</ a></li>
+                                <li><i className="far fa-envelope" />&nbsp;&nbsp;< a href="mailto:info@example.com">BDO@REACT-PLUS.COM</ a></li>
                             </ul>
                         </div>
                         <div className="col-lg-7">
@@ -30,11 +30,11 @@ export class Header extends Component {
                                 <ul className="social-icons">
                                     <li><a href="https://www.facebook.com/reactplus.jsc" className=" tooltip-bottom" data-tooltip="Facebook"><i className="fab fa-facebook-f" /></ a>
                                     </li>
-                                    <li><a className=" tooltip-bottom" data-tooltip="Twitter"><i className="fab fa-twitter" /></ a>
+                                    <li><a href="https://www.facebook.com/reactplus.jsc" className=" tooltip-bottom" data-tooltip="Twitter"><i className="fab fa-twitter" /></ a>
                                     </li>
-                                    <li><a className=" tooltip-bottom" data-tooltip="Flickr"><i className="fab fa-flickr" /></ a>
+                                    <li><a href="https://www.facebook.com/reactplus.jsc" className=" tooltip-bottom" data-tooltip="Flickr"><i className="fab fa-flickr" /></ a>
                                     </li>
-                                    <li><a className=" tooltip-bottom" data-tooltip=" aedin"><i className="fab fa-linkedin-in" /></ a>
+                                    <li><a href="https://www.facebook.com/reactplus.jsc" className=" tooltip-bottom" data-tooltip=" aedin"><i className="fab fa-linkedin-in" /></ a>
                                     </li>
                                 </ul>
                             </div>

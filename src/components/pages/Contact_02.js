@@ -3,7 +3,7 @@ import Header from '../layout/Header';
 import {Link} from 'react-router-dom';
 
 
-const AnyReactComponent = ({ text }) => <div>{text}</div>;
+// const AnyReactComponent = ({ text }) => <div>{text}</div>;
 
 export class Contact_02 extends Component {
     render() {

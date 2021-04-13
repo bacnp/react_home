@@ -34,7 +34,7 @@ export class Footer extends Component {
                     </div>
                     <div className="col-lg-4 col-md-4 col-sm-6 order-md-3 res-767-mt-20">
                         <div className="text-sm-right">
-                        <a className="ttm-btn ttm-btn-size-md ttm-btn-style-border ttm-btn-color-white"><i className="far fa-envelope" /> Info@example.com</a>
+                        <a href="mailto:info@example.com.com" className="ttm-btn ttm-btn-size-md ttm-btn-style-border ttm-btn-color-white"><i className="far fa-envelope" /> Info@example.com</a>
                         </div>
                     </div>
                     </div>
@@ -104,10 +104,10 @@ export class Footer extends Component {
                             <h5>Follow Us On</h5>
                             <div className="social-icons circle social-hover">
                             <ul className="list-inline">
-                                <li className="social-facebook"><a href="https://www.facebook.com/reactplus.jsc" className="tooltip-top rounded-circle" target="_blank" data-tooltip="Facebook"><i className="fab fa-facebook-f" /></a></li>
-                                <li className="social-twitter"><a className="tooltip-top rounded-circle" target="_blank" data-tooltip="Twitter"><i className="fab fa-twitter" /></a></li>
-                                <li className="social-flickr"><a className=" tooltip-top rounded-circle" target="_blank" data-tooltip="flickr"><i className="fab fa-flickr" /></a></li>
-                                <li className="social-linkedin"><a className=" tooltip-top rounded-circle" target="_blank" data-tooltip="aedIn"><i className="fab fa-linkedin-in" /></a></li>
+                                <li className="social-facebook"><a href="https://www.facebook.com/reactplus.jsc"  className="tooltip-top rounded-circle" target="_blank" rel="noopener noreferrer" data-tooltip="Facebook"><i className="fab fa-facebook-f" /></a></li>
+                                <li className="social-twitter"><a href="https://www.facebook.com/reactplus.jsc"className="tooltip-top rounded-circle" target="_blank" rel="noopener noreferrer" data-tooltip="Twitter"><i className="fab fa-twitter" /></a></li>
+                                <li className="social-flickr"><a href="https://www.facebook.com/reactplus.jsc"className=" tooltip-top rounded-circle" target="_blank" rel="noopener noreferrer" data-tooltip="flickr"><i className="fab fa-flickr" /></a></li>
+                                <li className="social-linkedin"><a href="https://www.facebook.com/reactplus.jsc"className=" tooltip-top rounded-circle" target="_blank" rel="noopener noreferrer" data-tooltip="aedIn"><i className="fab fa-linkedin-in" /></a></li>
                             </ul>
                             </div>
                         </div>
@@ -121,7 +121,7 @@ export class Footer extends Component {
                     <div className="row copyright align-items-center res-767-text-center">
                     <div className="col-md-6">
                         <div>
-                        <span>Copyright © 2021&nbsp;<a to="/">React+</a></span>
+                        <span>Copyright © 2021&nbsp;<Link to="/">React+</Link></span>
                         </div>
                     </div>
                     <div className="col-md-6">

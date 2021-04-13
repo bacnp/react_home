@@ -7,47 +7,47 @@ import {Link} from 'react-router-dom';
 
 export class Projects_Web extends Component {
     render() {
-        var slick_slider = {
-          dots: false,
-          arrow: false,
-          autoplay: true,
-          infinite: true,
-          speed: 500,
-          slidesToShow: 4,
-          slidesToScroll: 1,
+        // var slick_slider = {
+        //   dots: false,
+        //   arrow: false,
+        //   autoplay: true,
+        //   infinite: true,
+        //   speed: 500,
+        //   slidesToShow: 4,
+        //   slidesToScroll: 1,
 
-          responsive: [{
+        //   responsive: [{
 
-            breakpoint: 1199,
-            settings: {
-            slidesToShow: 3,
-            slidesToScroll: 3
-            }
-        },
-        {
+        //     breakpoint: 1199,
+        //     settings: {
+        //     slidesToShow: 3,
+        //     slidesToScroll: 3
+        //     }
+        // },
+        // {
       
-            breakpoint: 1024,
-            settings: {
-            slidesToShow: 3,
-            slidesToScroll: 3
-            }
-        },
-        {
+        //     breakpoint: 1024,
+        //     settings: {
+        //     slidesToShow: 3,
+        //     slidesToScroll: 3
+        //     }
+        // },
+        // {
       
-            breakpoint: 767,
-            settings: {
-                slidesToShow: 2,
-                slidesToScroll: 2
-            }
-        },
-        {
-            breakpoint: 480,
-            settings: {
-                slidesToShow: 1,
-                slidesToScroll: 1
-            }
-        }]
-        };
+        //     breakpoint: 767,
+        //     settings: {
+        //         slidesToShow: 2,
+        //         slidesToScroll: 2
+        //     }
+        // },
+        // {
+        //     breakpoint: 480,
+        //     settings: {
+        //         slidesToShow: 1,
+        //         slidesToScroll: 1
+        //     }
+        // }]
+        // };
         return (
             <div className="site-main">
                 <Header />

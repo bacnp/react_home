@@ -67,7 +67,7 @@ export class Team_detail extends Component {
                                     </li> */}
                                     <li>
                                     <div className="ttm-team-list-title"><i className="ti ti-world" /> Website :</div>
-                                    <div className="ttm-team-list-value"><a target="_blank" href="https://react-plus.com/">https://react-plus.com/</a></div>
+                                    <div className="ttm-team-list-value"><a target="_blank" rel="noopener noreferrer" href="https://react-plus.com/">https://react-plus.com/</a></div>
                                     </li>
                                     <li>
                                     <div className="ttm-team-list-title"><i className="ti ti-time" /> Experience :</div>
@@ -261,7 +261,7 @@ export class Team_detail extends Component {
                                     </li> */}
                                     <li>
                                     <div className="ttm-team-list-title"><i className="ti ti-world" /> Website :</div>
-                                    <div className="ttm-team-list-value"><a target="_blank" href="https://react-plus.com/">https://react-plus.com/</a></div>
+                                    <div className="ttm-team-list-value"><a target="_blank" rel="noopener noreferrer" href="https://react-plus.com/">https://react-plus.com/</a></div>
                                     </li>
                                     <li>
                                     <div className="ttm-team-list-title"><i className="ti ti-time" /> Experience :</div>
@@ -359,7 +359,7 @@ export class Team_detail extends Component {
                                     </li> */}
                                     <li>
                                     <div className="ttm-team-list-title"><i className="ti ti-world" /> Website :</div>
-                                    <div className="ttm-team-list-value"><a target="_blank" href="https://react-plus.com/">https://react-plus.com/</a></div>
+                                    <div className="ttm-team-list-value"><a target="_blank" rel="noopener noreferrer" href="https://react-plus.com/">https://react-plus.com/</a></div>
                                     </li>
                                     <li>
                                     <div className="ttm-team-list-title"><i className="ti ti-time" /> Experience :</div>
@@ -457,7 +457,7 @@ export class Team_detail extends Component {
                                     </li> */}
                                     <li>
                                     <div className="ttm-team-list-title"><i className="ti ti-world" /> Website :</div>
-                                    <div className="ttm-team-list-value"><a target="_blank" href="https://react-plus.com/">https://react-plus.com/</a></div>
+                                    <div className="ttm-team-list-value"><a target="_blank" rel="noopener noreferrer" href="https://react-plus.com/">https://react-plus.com/</a></div>
                                     </li>
                                     <li>
                                     <div className="ttm-team-list-title"><i className="ti ti-time" /> Experience :</div>
@@ -555,7 +555,7 @@ export class Team_detail extends Component {
                                     </li> */}
                                     <li>
                                     <div className="ttm-team-list-title"><i className="ti ti-world" /> Website :</div>
-                                    <div className="ttm-team-list-value"><a target="_blank" href="https://react-plus.com/">https://react-plus.com/</a></div>
+                                    <div className="ttm-team-list-value"><a target="_blank" rel="noopener noreferrer" href="https://react-plus.com/">https://react-plus.com/</a></div>
                                     </li>
                                     <li>
                                     <div className="ttm-team-list-title"><i className="ti ti-time" /> Experience :</div>
@@ -653,7 +653,7 @@ export class Team_detail extends Component {
                                     </li> */}
                                     <li>
                                     <div className="ttm-team-list-title"><i className="ti ti-world" /> Website :</div>
-                                    <div className="ttm-team-list-value"><a target="_blank" href="https://react-plus.com/">https://react-plus.com/</a></div>
+                                    <div className="ttm-team-list-value"><a target="_blank" rel="noopener noreferrer" href="https://react-plus.com/">https://react-plus.com/</a></div>
                                     </li>
                                     <li>
                                     <div className="ttm-team-list-title"><i className="ti ti-time" /> Experience :</div>

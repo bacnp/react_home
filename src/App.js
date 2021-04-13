@@ -29,7 +29,7 @@ import Visions from './components/pages/visions';
 import Lab_Develop from './components/pages/lab_develop';
 import App_Develop from './components/pages/app_develop';
 import Web_Develop from './components/pages/web_develop';
-import Projects from './components/pages/projects';
+// import Projects from './components/pages/projects';
 import Projects_Web from './components/pages/projects_web';
 import Projects_App from './components/pages/projects_app';
 
@@ -66,7 +66,7 @@ function App() {
             <Route path="/lab_develop" component={Lab_Develop} />
             <Route path="/app_develop" component={App_Develop} />
             <Route path="/web_develop" component={Web_Develop} />
-            <Route path="/projects" component={Projects} />
+            {/* <Route path="/projects" component={Projects} /> */}
             <Route path="/projects_web" component={Projects_Web} />
             <Route path="/projects_app" component={Projects_App} />
         <Footer />

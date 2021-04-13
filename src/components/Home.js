@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 import Slider from 'react-slick';
-import { MDBProgress } from 'mdbreact';
+// import { MDBProgress } from 'mdbreact';
 import { Header } from './layout/Header';
 import { CarouselPage } from './banner/Home1_banner';
-import Lightbox from 'react-image-lightbox';
+// import Lightbox from 'react-image-lightbox';
 import 'react-image-lightbox/style.css';
 import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
 import FadeIn from 'react-fade-in';
@@ -11,13 +11,13 @@ import CountUp from 'react-countup';
 import { HashLink as Link } from 'react-router-hash-link';
 
 
-const images = [
-  'https://via.placeholder.com/600X750/444444.jpg',
-  'https://via.placeholder.com/600X750/444444.jpg',
-  'https://via.placeholder.com/600X750/444444.jpg',
-  'https://via.placeholder.com/600X750/444444.jpg',
-  'https://via.placeholder.com/600X750/444444.jpg'
-];
+// const images = [
+//   'https://via.placeholder.com/600X750/444444.jpg',
+//   'https://via.placeholder.com/600X750/444444.jpg',
+//   'https://via.placeholder.com/600X750/444444.jpg',
+//   'https://via.placeholder.com/600X750/444444.jpg',
+//   'https://via.placeholder.com/600X750/444444.jpg'
+// ];
 
 export class Home extends Component {
   constructor(props) {
@@ -29,7 +29,7 @@ export class Home extends Component {
     };
   }
     render() {
-      const { photoIndex, isOpen } = this.state;
+      // const { photoIndex, isOpen } = this.state;
         var slick_slider = {
           dots: false,
           arrow: false,
@@ -154,7 +154,7 @@ export class Home extends Component {
                                 {/* featured-imagebox-services */}
                                 <div className="featured-imagebox featured-imagebox-services style1">
                                     <div className="featured-thumbnail">{/* featured-thumbnail */}
-                                    <img className="img-fluid" src="./images/temp/01.jpg" alt="image" />
+                                    <img className="img-fluid" src="./images/temp/01.jpg" alt="Lab Type Offshore Developement" />
                                     </div> 
                                     <div className="featured-content box-shadow">
                                     <div className="featured-title">{/* featured-title */}
@@ -168,7 +168,7 @@ export class Home extends Component {
                                 {/* featured-imagebox-services */}
                                 <div className="featured-imagebox featured-imagebox-services style1">
                                     <div className="featured-thumbnail">{/* featured-thumbnail */}
-                                    <img className="img-fluid" src="./images/temp/02.jpg" alt="image" />
+                                    <img className="img-fluid" src="./images/temp/02.jpg" alt="Application Development" />
                                     </div> 
                                     <div className="featured-content box-shadow">
                                     <div className="featured-title">{/* featured-title */}
@@ -182,7 +182,7 @@ export class Home extends Component {
                                 {/* featured-imagebox-services */}
                                 <div className="featured-imagebox featured-imagebox-services style1">
                                     <div className="featured-thumbnail">{/* featured-thumbnail */}
-                                    <img className="img-fluid" src="./images/temp/03.jpg" alt="image" />
+                                    <img className="img-fluid" src="./images/temp/03.jpg" alt="Website Developement" />
                                     </div> 
                                     <div className="featured-content box-shadow">
                                     <div className="featured-title">{/* featured-title */}
@@ -666,7 +666,7 @@ export class Home extends Component {
                                     <div className="client-box ttm-box-view-boxed-logo">
                                         <div className="client">
                                             <div className="ttm-client-logo-tooltip" data-tooltip="client-01">
-                                                <img className="img-fluid" src="./images/temp/client-01.png" alt="image" />
+                                                <img className="img-fluid" src="./images/temp/client-01.png" alt="client-01" />
                                             </div>
                                         </div>
                                     </div>
@@ -675,7 +675,7 @@ export class Home extends Component {
                                     <div className="client-box ttm-box-view-boxed-logo">
                                         <div className="client">
                                             <div className="ttm-client-logo-tooltip" data-tooltip="client-02">
-                                                <img className="img-fluid" src="./images/temp/client-02.png" alt="image" />
+                                                <img className="img-fluid" src="./images/temp/client-02.png" alt="client-02" />
                                             </div>
                                         </div>
                                     </div>
@@ -684,7 +684,7 @@ export class Home extends Component {
                                     <div className="client-box ttm-box-view-boxed-logo">
                                         <div className="client">
                                             <div className="ttm-client-logo-tooltip" data-tooltip="client-03">
-                                                <img className="img-fluid" src="./images/temp/client-03.png" alt="image" />
+                                                <img className="img-fluid" src="./images/temp/client-03.png" alt="client-03" />
                                             </div>
                                         </div>
                                     </div>
@@ -693,7 +693,7 @@ export class Home extends Component {
                                     <div className="client-box ttm-box-view-boxed-logo">
                                         <div className="client">
                                             <div className="ttm-client-logo-tooltip" data-tooltip="client-04">
-                                                <img className="img-fluid" src="./images/temp/client-04.png" alt="image" />
+                                                <img className="img-fluid" src="./images/temp/client-04.png" alt="client-04" />
                                             </div>
                                         </div>
                                     </div>
@@ -702,7 +702,7 @@ export class Home extends Component {
                                     <div className="client-box ttm-box-view-boxed-logo">
                                         <div className="client">
                                             <div className="ttm-client-logo-tooltip" data-tooltip="client-05">
-                                                <img className="img-fluid" src="./images/temp/client-02.png" alt="image" />
+                                                <img className="img-fluid" src="./images/temp/client-02.png" alt="client-05" />
                                             </div>
                                         </div>
                                     </div>
