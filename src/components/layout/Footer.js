@@ -47,7 +47,7 @@ export class Footer extends Component {
                         <div className="widget widget_text  clearfix">
                         <h3 className="widget-title">About Our Company</h3>
                         <div className="textwidget widget-text">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque at lorem purus. Duis eros odio, aliquet eu turpis sed, vehicula pulvinar lacus.
+                        We are one of the leading authority in IT offshore developement speacializing in developing website and mobile application using React and React Native 
                         </div>
                         <div className="quicklink-box">
                             {/*  featured-icon-box */} 

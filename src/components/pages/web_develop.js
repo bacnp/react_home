@@ -79,7 +79,7 @@ export class Web_Develop extends Component {
                   <div className="col-md-12">
 
                     <div className="col-md-8 offset-md-2 px-md-0 ">
-                    <h5>Based on our abundant development experience, VNEXT HOLDINGS works on design and development from the viewpoint of "ease of use" in response to customer's requests and provides system development in order to help lead customer's business to success.</h5>
+                    <h5>Based on our abundant development experience, REACT PLUS HOLDINGS works on design and development from the viewpoint of "ease of use" in response to customer's requests and provides system development in order to help lead customer's business to success.</h5>
                     </div>
                     </div>
                     </div>
@@ -122,7 +122,7 @@ export class Web_Develop extends Component {
                                 <h2 className="title">Over 12 Years of Experience</h2>
                             </div>
                             <div className="title-desc">
-                                <p>With over 12 years of experience, VNEXT HOLDINGS constantly strives for excellence in customer satisfaction by delivering high-quality software products that leverage cutting-edge technologies together with reliable and cost-effective solutions.</p>
+                                <p>With over 12 years of experience, REACT PLUS HOLDINGS constantly strives for excellence in customer satisfaction by delivering high-quality software products that leverage cutting-edge technologies together with reliable and cost-effective solutions.</p>
                             </div>
                             </div>{/* section title end */}
                         </div>
